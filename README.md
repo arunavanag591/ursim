@@ -1,6 +1,6 @@
 ## Ursim Installation Guide
 
-This describes how to have ursim running in Ubuntu 16.04. The latest Ursim could be downloaded from [here](https://www.universal-robots.com/download/?option=31153#section16632). Alternatively, the repo can be cloned and tar.gz could be used. Unzip the files using
+This describes how to have ursim running in Ubuntu 16.04. The latest Ursim could be downloaded from [here](https://www.universal-robots.com/download/?option=31153#section16632). Unzip the files using
 ```tar -zxf filename.tar.gz``` 
 
 ## How to Install Ursim (Polyscope Interface): 
