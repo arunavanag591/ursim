@@ -3,7 +3,7 @@
 This describes how to have ursim running in Ubuntu 16.04. The latest Ursim could be downloaded from [here](https://www.universal-robots.com/download/?option=31153#section16632). Unzip the files using
 ```tar -zxf filename.tar.gz``` 
 
-## How to Install Ursim (Polyscope Interface - Univeral Robot): 
+## How to Install Ursim (Polyscope Interface - Universal Robot): 
 
 1. Install [Java 8](https://www.digitalocean.com/community/tutorials/how-to-install-java-with-apt-get-on-ubuntu-16-04).
 2. Change the following line, in install.sh file: ( A sample file could be found in the repo) 
